@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"A File Icon",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPick",
+		"ColorPicker",
+		"ColorSchemeEditor",
+		"DocBlockr",
+		"ES6-Toolkit",
+		"Git Conflict Resolver",
+		"Handlebars",
+		"Hooks",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Completions",
+		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
+		"JSHint",
+		"JSHint Gutter",
+		"Monokai Extended",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"Terminal"
+	]
+}

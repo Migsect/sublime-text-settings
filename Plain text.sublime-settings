@@ -1,0 +1,12 @@
+
+// Inside my-language.sublime-settings
+
+{
+	"extensions": [".js"],
+	// ...
+	"on_post_save_language": [
+		{
+			"command": "select_all"
+		}
+	]
+}
