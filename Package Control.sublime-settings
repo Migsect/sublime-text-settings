@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"JavaScriptNext - ES6 Syntax"
 	],
 	"installed_packages":
 	[
@@ -19,7 +20,6 @@
 		"Hooks",
 		"HTML-CSS-JS Prettify",
 		"JavaScript Completions",
-		"JavaScriptNext - ES6 Syntax",
 		"JsFormat",
 		"JSHint",
 		"JSHint Gutter",
@@ -27,6 +27,7 @@
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
+		"Six - Future JavaScript Syntax",
 		"Terminal"
 	]
 }
